@@ -1,0 +1,71 @@
+header {
+    text-align: center;
+    background-image: url("images/succulents.jpg");
+    padding: 5%;
+}
+
+#head {
+    font-family: "Impact";
+    background-color:rgba(255,255,255,.5);
+    font-size: 3em;
+}
+
+h3{
+    font-size: 1.5em;
+}
+
+a{
+    color: darkgreen;
+    font-size: 1.25em;
+
+}
+.navigation {
+    padding: 2%;
+    margin: 2%;
+    text-align: center;
+    background-color: ;
+}
+
+ul {
+    list-style-type: none;
+}
+
+article {
+    text-align: left;
+    font-family: "Lucida Grande";
+    font-size: 1em;
+}
+
+.about {
+    background-color: rgba(191, 173, 194, .5);
+}
+
+.education {
+    background-color: rgba(138, 115, 123, .5);
+}
+
+.loves {
+    background-color: rgba(186, 212, 192, .5);
+}
+h2 {
+    font-size: 2em;
+    font-family: "Impact";
+    color:rgba(112, 140, 137);
+    text-align: center;
+    margin: 1%;
+    padding: 2%;
+}
+
+p{
+    padding: 2%;
+    margin: 2%;
+}
+
+#center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
